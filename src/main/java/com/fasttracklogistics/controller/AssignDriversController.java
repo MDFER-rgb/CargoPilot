@@ -5,11 +5,8 @@ import com.fasttracklogistics.dao.DeliveryDAO;
 import com.fasttracklogistics.dao.DeliveryDAOImpl;
 import com.fasttracklogistics.dao.DeliveryPersonnelDAO;
 import com.fasttracklogistics.dao.DeliveryPersonnelDAOImpl;
-import com.fasttracklogistics.dao.ShipmentDAO;
-import com.fasttracklogistics.dao.ShipmentDAOImpl;
 import com.fasttracklogistics.model.Delivery;
 import com.fasttracklogistics.model.DeliveryPersonnel;
-import com.fasttracklogistics.model.Shipment;
 import com.fasttracklogistics.view.AssignDriversPanel;
 
 import javax.swing.JOptionPane;

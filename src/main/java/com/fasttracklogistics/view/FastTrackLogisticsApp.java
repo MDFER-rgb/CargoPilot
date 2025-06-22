@@ -1,7 +1,6 @@
 // src/main/java/com/fasttracklogistics/view/FastTrackLogisticsApp.java (MODIFIED to include Reports Panel)
 package com.fasttracklogistics.view;
 
-import com.fasttracklogistics.controller.ShipmentController;
 import com.fasttracklogistics.controller.DeliveryPersonnelController;
 import com.fasttracklogistics.controller.ScheduleDeliveryController;
 import com.fasttracklogistics.controller.NotificationController;

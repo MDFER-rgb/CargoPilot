@@ -4,7 +4,6 @@ package com.fasttracklogistics.view;
 
 import com.fasttracklogistics.model.Delivery;
 import com.fasttracklogistics.model.DeliveryPersonnel;
-import com.fasttracklogistics.model.Shipment;
 
 import javax.swing.*;
 import javax.swing.border.EmptyBorder;

@@ -3,7 +3,6 @@
 
 package com.fasttracklogistics.view;
 
-import com.fasttracklogistics.model.Shipment;
 import com.fasttracklogistics.model.Delivery;
 
 import javax.swing.*;
